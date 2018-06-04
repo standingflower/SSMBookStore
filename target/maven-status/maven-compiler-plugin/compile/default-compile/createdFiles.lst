@@ -1,0 +1,17 @@
+com\booksystem\interceptor\loginInterceptor.class
+com\booksystem\tool\SelectExcel.class
+com\booksystem\action\BookAction.class
+com\booksystem\mybatis\entities\Book.class
+com\booksystem\service\BookUserService.class
+com\booksystem\mybatis\mapper\UserMapper.class
+com\booksystem\mybatis\entities\UserAndRecord.class
+com\booksystem\mybatis\entities\BookUser.class
+com\booksystem\tool\PageInfo.class
+com\booksystem\mybatis\mapper\BookMapper.class
+com\booksystem\action\UserAction.class
+com\booksystem\action\BookUserAction.class
+com\booksystem\action\BookCrudAction.class
+com\booksystem\service\UserService.class
+com\booksystem\mybatis\entities\User.class
+com\booksystem\service\BookService.class
+com\booksystem\mybatis\mapper\BookUserMapper.class
