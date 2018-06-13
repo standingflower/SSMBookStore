@@ -9,6 +9,7 @@ com\booksystem\mybatis\entities\BookUser.class
 com\booksystem\tool\PageInfo.class
 com\booksystem\mybatis\mapper\BookMapper.class
 com\booksystem\action\UserAction.class
+com\booksystem\aop\MethodAop.class
 com\booksystem\action\BookUserAction.class
 com\booksystem\action\BookCrudAction.class
 com\booksystem\service\UserService.class
